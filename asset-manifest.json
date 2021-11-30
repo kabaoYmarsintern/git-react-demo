@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/git-react-demo/static/css/main.918dca8d.chunk.css",
-    "main.js": "/git-react-demo/static/js/main.96a84145.chunk.js",
-    "main.js.map": "/git-react-demo/static/js/main.96a84145.chunk.js.map",
+    "main.js": "/git-react-demo/static/js/main.dfb891a5.chunk.js",
+    "main.js.map": "/git-react-demo/static/js/main.dfb891a5.chunk.js.map",
     "runtime-main.js": "/git-react-demo/static/js/runtime-main.3fc4d650.js",
     "runtime-main.js.map": "/git-react-demo/static/js/runtime-main.3fc4d650.js.map",
     "static/js/2.b6afb197.chunk.js": "/git-react-demo/static/js/2.b6afb197.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.b1a7232c.chunk.js.map": "/git-react-demo/static/js/3.b1a7232c.chunk.js.map",
     "index.html": "/git-react-demo/index.html",
     "static/css/main.918dca8d.chunk.css.map": "/git-react-demo/static/css/main.918dca8d.chunk.css.map",
-    "static/js/2.b6afb197.chunk.js.LICENSE.txt": "/git-react-demo/static/js/2.b6afb197.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/git-react-demo/static/media/logo.6ce24c58.svg"
+    "static/js/2.b6afb197.chunk.js.LICENSE.txt": "/git-react-demo/static/js/2.b6afb197.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3fc4d650.js",
     "static/js/2.b6afb197.chunk.js",
     "static/css/main.918dca8d.chunk.css",
-    "static/js/main.96a84145.chunk.js"
+    "static/js/main.dfb891a5.chunk.js"
   ]
 }
