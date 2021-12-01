@@ -1,9 +1,20 @@
-import logo from './logo.svg';
+import Header from './component/Header';
+import TodoContainer from './component/TodoContainer';
+
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div class="center"> 
+      <h1> Hello World from React! </h1>
+    
+      <TodoContainer/>
+    </div>
+    
+    
+    
+    
+    /*<div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -16,9 +27,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
-      </header>
-    </div>
+        </a> 
+      </header> 
+    </div> */
   );
 }
 
