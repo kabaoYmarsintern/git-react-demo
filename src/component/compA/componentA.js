@@ -2,7 +2,8 @@ import React from "react";
 
 function ComponentA(props) {
     return (
-        <div> 
-            <
-    )
+        <React.Fragment> This is Component A! </React.Fragment> 
+            
+    );
 }
+export default ComponentA;
